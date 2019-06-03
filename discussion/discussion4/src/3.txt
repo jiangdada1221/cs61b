@@ -1,0 +1,5 @@
+A: Animal Pluto says Huh?"
+B: Cat says Meow!
+C: Dog Fido says WOOF!
+D: Cat says Meow!
+E: the same to D
